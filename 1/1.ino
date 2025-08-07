@@ -1,12 +1,12 @@
 int green = 13 ;
 int yellow = 12 ;
 int red = 11 ;
-int button = 7 ;
+
 void setup() {
   pinMode(green, OUTPUT);
   pinMode(yellow, OUTPUT);
   pinMode(red, OUTPUT);
-  pinMode(button, INPUT);
+
 
 }
 
