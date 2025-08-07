@@ -13,5 +13,4 @@ When the button is pressed, the system pauses and holds the red light until rele
 
   ## Circuit Diagram
 
-Here is the circuit simulation using Arduino:
-<img width="1536" height="632" alt="Ingenious Sango" src="https://github.com/user-attachments/assets/d51164e2-e4f4-4fd5-90b7-730f60b96fcf" />
+Here is the circuit simulation using Arduino:<img width="1536" height="632" alt="Incredible Stantia-Kieran" src="https://github.com/user-attachments/assets/a573e345-ef36-4ab0-92ee-219d461fa52c" />
